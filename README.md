@@ -21,7 +21,7 @@
 
 ### Azure ###
 
-* Summary
+* [Install Azure CLI with apt](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-apt?view=azure-cli-latest)
 
 ### Jenkins ###
 
