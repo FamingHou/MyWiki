@@ -24,7 +24,7 @@
 
 ### Jenkins ###
 
-* Summary
+* [Build the docker image of payment microservice on Jenkins](Jenkins/build-the-docker-image-of-payment-microservice-on-jenkins.md)
 
 ### Housekeeping ###
 
