@@ -5,6 +5,7 @@
 
 * [Authenticate with Azure Container Registry from Azure Kubernetes Service](Kubernetes/Authenticate-with-Azure-Container-Registry-from-Azure-Kubernetes-Service.md)
 * [NGINX Ingress Controller Installation Guide](https://kubernetes.github.io/ingress-nginx/deploy/)
+* [K8s resource requests and limits](Kubernetes/k8s-resource-requests-and-limits.md)
 
 ### Docker ###
 
