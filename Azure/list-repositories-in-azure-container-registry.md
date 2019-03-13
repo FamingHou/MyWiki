@@ -4,19 +4,14 @@
 faming_hou@Azure:~$ az acr repository list -n ${MyRegistry}
 [
   "addressservice",
-  "adminservice",
-  "appservice",
   "captchaservice",
   "cartservice",
   "chatservice",
-  "clientservice",
   "dashboardservice",
   "goodsservice",
   "memberservice",
   "orderservice",
-  "paymentservice",
-  "templateservice",
-  "websiteservice"
+  "paymentservice"
 ]
 faming_hou@Azure:~$
 ```
@@ -58,7 +53,7 @@ faming_hou@Azure:~$
 ## Show and filter tags for a repository in an Azure Container Registry
 
 ```console
-faming_hou@Azure:~$ az acr repository show-tags -n ${MyRegistry} --repository addressservice --orderby=time_desc | awk -F '["]' '{ print $2 }'
+faming_hou@Azure:~$ az acr repository show-tags -n ${MyRegistry} --repository pamentservice --orderby=time_desc | awk -F '["]' '{ print $2 }'
 
 v0.1.77
 v0.1.75
@@ -92,7 +87,7 @@ faming_hou@Azure:~$
 ## Delete an image in an Azure Container Registry
 
 ```console
-az acr repository delete -n ${MyRegistry} --image addressservice:v1.0.0.51 --yes
+az acr repository delete -n ${MyRegistry} --image paymentservice:v1.0.0.51 --yes
 ```
 
 
