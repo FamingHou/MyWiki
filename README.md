@@ -33,4 +33,4 @@
 
 ### Housekeeping ###
 
-* Summary
+* [Docker image cleaning on Azure](Housekeeping/docker-image-cleaning-on-azure.md)
