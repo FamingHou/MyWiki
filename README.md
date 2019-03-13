@@ -22,6 +22,7 @@
 ### Azure ###
 
 * [Install Azure CLI with apt](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-apt?view=azure-cli-latest)
+* [List repositories in an Azure Container Registry](Azure/list-repositories-in-azure-container-registry.md)
 
 ### Jenkins ###
 
