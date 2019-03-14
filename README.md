@@ -31,7 +31,7 @@
 
 ### Jenkins ###
 
-* [Building the docker image of payment microservice](Docker/building-the-docker-image-of-payment-microservice.md)
+* [Building the docker image of payment microservice](Jenkins/building-the-docker-image-of-payment-microservice.md)
 
 ### Ubuntu ###
 

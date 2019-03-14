@@ -7,8 +7,8 @@ MAJOR=0
 MINOR=1
 
 # Please do not modify the followings
-USERNAME=companyname
-PASSWORD=yourpassword
+USERNAME=${yourusername}
+PASSWORD=${yourpassword}
 IMAGE=${NAME}service:v${MAJOR}.${MINOR}.${BUILD_NUMBER}
 cd ./src
 pwd

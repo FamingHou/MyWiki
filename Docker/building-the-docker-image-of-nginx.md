@@ -7,7 +7,7 @@ MAJOR=0
 MINOR=1
 
 # Please do not modify the followings
-USERNAME=${yourname}
+USERNAME=${yourusername}
 PASSWORD=${yourpassword}
 IMAGE=${NAME}service:v${MAJOR}.${MINOR}.${BUILD_NUMBER}
 cd ./src
