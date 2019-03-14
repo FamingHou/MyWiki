@@ -16,7 +16,7 @@
 
 ### Nginx ###
 
-* Summary
+* [nginx.conf](Nginx/nginx-conf.md)
 
 ### Redis ### 
 
