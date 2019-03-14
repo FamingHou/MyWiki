@@ -38,6 +38,11 @@
 
 * [Running Jenkins on Port 80 or 443 using iptables](Ubuntu/running-jenkins-on-port-80-or-443-using-iptables.md)
 
+## Elasticsearch
+
+* [Searching bool should match](Elasticsearch/searching-bool-should-match.md)
+* [Searching multi match](Elasticsearch/searching-multi-match.md)
+
 ### Housekeeping ###
 
 * [Cleaning docker images on Azure](Housekeeping/cleaning-docker-images-on-azure.md)
