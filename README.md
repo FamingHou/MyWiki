@@ -39,6 +39,7 @@
 
 ### Housekeeping ###
 
-* [Cleaning docker images on Azure](Housekeeping/docker-image-cleaning-on-azure.md)
+* [Cleaning docker images on Azure](Housekeeping/cleaning-docker-images-on-azure.md)
+* [Cleaning docker images on Jenkins](Housekeeping/cleaning-docker-images-on-jenkins.md)
 
 
