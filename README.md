@@ -11,7 +11,6 @@
 
 ### Docker ###
 
-* [Building the docker image of payment microservice](Docker/building-the-docker-image-of-payment-microservice.md)
 * [Building the docker image of Nginx](Docker/building-the-docker-image-of-nginx.md)
 
 ### Nginx ###
@@ -32,7 +31,7 @@
 
 ### Jenkins ###
 
-* Summary
+* [Building the docker image of payment microservice](Docker/building-the-docker-image-of-payment-microservice.md)
 
 ### Ubuntu ###
 
