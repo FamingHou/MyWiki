@@ -1,4 +1,4 @@
-﻿# README #
+﻿## README ##
 
 
 ### Kubernetes ###
@@ -38,7 +38,7 @@
 
 * [Running Jenkins on Port 80 or 443 using iptables](Ubuntu/running-jenkins-on-port-80-or-443-using-iptables.md)
 
-## Elasticsearch
+### Elasticsearch
 
 * [Searching bool should match](Elasticsearch/searching-bool-should-match.md)
 * [Searching multi match](Elasticsearch/searching-multi-match.md)
@@ -48,7 +48,7 @@
 * [Cleaning docker images on Azure](Housekeeping/cleaning-docker-images-on-azure.md)
 * [Cleaning docker images on Jenkins](Housekeeping/cleaning-docker-images-on-jenkins.md)
 
-## Task
+### Task
 
 * [Reload the nginx service running on kubernetes with a new nginx.conf by using Jenkins](Tasks/reload-nginx.md)
 * [Download nginx.conf and reload nginx service when pods were restarted](Tasks/download-conf-reload-nginx.md)
