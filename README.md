@@ -41,7 +41,4 @@
 
 * [Cleaning docker images on Azure](Housekeeping/docker-image-cleaning-on-azure.md)
 
-## References
 
-* [Redis Persistence](https://redis.io/topics/persistence)
-* [Setup Persistence Redis cluster in Kubernetes](https://medium.com/zero-to/setup-persistence-redis-cluster-in-kubertenes-7d5b7ffdbd98)
