@@ -19,7 +19,8 @@
 
 ### Redis ### 
 
-* Summary
+* [Azure Cache for Redis Documentation](https://docs.microsoft.com/en-us/azure/azure-cache-for-redis)
+* [How to configure Azure Cache for Redis](https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/cache-configure)
 
 ### Azure ###
 
