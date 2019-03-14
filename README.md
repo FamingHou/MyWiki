@@ -7,6 +7,7 @@
 * [NGINX Ingress Controller Installation Guide](https://kubernetes.github.io/ingress-nginx/deploy/)
 * [K8s resource requests and limits](Kubernetes/k8s-resource-requests-and-limits.md)
 * [Scaling resources](Kubernetes/scaling-resources.md)
+* [Commands](Kubernetes/commands-of-kubernetes.md)
 
 ### Docker ###
 
