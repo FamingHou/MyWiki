@@ -16,6 +16,7 @@
 ### Nginx ###
 
 * [nginx.conf](Nginx/nginx-conf.md)
+* [Expiring the cached file](Nginx/expiring-the-cached-file.md)
 
 ### Redis ### 
 
