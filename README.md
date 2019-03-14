@@ -43,4 +43,6 @@
 * [Cleaning docker images on Azure](Housekeeping/cleaning-docker-images-on-azure.md)
 * [Cleaning docker images on Jenkins](Housekeeping/cleaning-docker-images-on-jenkins.md)
 
+## Task
 
+* [Reload the nginx service running on kubernetes with a new nginx.conf by using Jenkins](Tasks/reload-nginx.md)
