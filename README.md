@@ -21,11 +21,13 @@
 
 * [Azure Cache for Redis Documentation](https://docs.microsoft.com/en-us/azure/azure-cache-for-redis)
 * [How to configure Azure Cache for Redis](https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/cache-configure)
+* [Redis persistence on Azure](Redis/redis-persistence-on-azure.md)
 
 ### Azure ###
 
 * [Install Azure CLI with apt](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-apt?view=azure-cli-latest)
 * [List repositories in an Azure Container Registry](Azure/list-repositories-in-azure-container-registry.md)
+* 
 
 ### Jenkins ###
 
