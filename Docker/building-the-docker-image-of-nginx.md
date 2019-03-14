@@ -8,7 +8,7 @@ MINOR=1
 
 # Please do not modify the followings
 USERNAME=${yourname}
-PASSWORD=JESFjfdmTOujYadXu4=BMXmNJQhjWQ65
+PASSWORD=${yourpassword}
 IMAGE=${NAME}service:v${MAJOR}.${MINOR}.${BUILD_NUMBER}
 cd ./src
 pwd
