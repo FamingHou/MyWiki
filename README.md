@@ -12,6 +12,7 @@
 ### Docker ###
 
 * [Building the docker image of Nginx](Docker/building-the-docker-image-of-nginx.md)
+* [Installing Docker on Ubuntu](Docker/installing-docker-on-ubuntu.md)
 
 ### Nginx ###
 
