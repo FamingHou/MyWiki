@@ -48,6 +48,9 @@ sudo add-apt-repository \
    $(lsb_release -cs) \
    stable"
 ```
+```console
+sudo apt-get update
+```
 
 ### Install a specific version of Docker CE
   a. List the versions available in your repo:
