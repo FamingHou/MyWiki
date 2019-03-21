@@ -65,19 +65,20 @@ apt-cache madison docker-ce
 ```
   b. Install a specific version using the version string from the second column, for example, 18.06.1~ce~3-0~ubuntu. 
 ```console
-sudo apt-get install -y docker-ce=18.06.1~ce~3-0~ubuntu docker-ce-cli=18.06.1~ce~3-0~ubuntu containerd.io
+sudo apt-get install -y docker-ce=18.06.1~ce~3-0~ubuntu
 ```
-
-```console
-sudo service docker status
-```
-
 
 ### The user jenkins needs to be added to the group docker
 
 ```console
-sudo usermod -a -G docker jenkins
+sudo usermod -aG docker jenkins
 sudo service jenkins restart
+```
+
+```console
+sudo -s
+su - jenkins
+docker version
 ```
 
 ### References
