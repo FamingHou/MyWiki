@@ -32,6 +32,7 @@
 
 ### Jenkins ###
 
+* [Installing Jenkins on Ubuntu](Jenkins/installing-jenkins-on-ubuntu.md)
 * [Building the docker image of payment microservice](Jenkins/building-the-docker-image-of-payment-microservice.md)
 
 ### Ubuntu ###
