@@ -1,4 +1,4 @@
-### Installing Oracle JDK 8
+### Installing Open JDK 8
 
 ```console
 sudo apt-get install openjdk-8-jdk -y
