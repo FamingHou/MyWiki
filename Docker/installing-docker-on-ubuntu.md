@@ -14,3 +14,10 @@ sudo apt-get install -y docker-ce
 sudo systemctl status docker
 
 ```
+
+### The user jenkins needs to be added to the group docker
+
+```console
+sudo usermod -a -G docker jenkins
+sudo service jenkins restart
+```
