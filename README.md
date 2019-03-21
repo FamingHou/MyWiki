@@ -57,3 +57,4 @@
 
 * [Reload the nginx service running on kubernetes with a new nginx.conf by using Jenkins](Tasks/reload-nginx.md)
 * [Download nginx.conf and reload nginx service when pods were restarted](Tasks/download-conf-reload-nginx.md)
+* [Open Kubernetes dashboard](Tasks/open-kubernetes-dashboard.md)
