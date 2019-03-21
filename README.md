@@ -31,6 +31,11 @@
 * [List repositories in an Azure Container Registry](Azure/list-repositories-in-azure-container-registry.md)
 * 
 
+### Dotnet
+
+* [Installing .NET on Ubuntu](Dotnet/installing-dotnet-on-ubuntu.md)
+
+
 ### Jenkins ###
 
 * [Installing Jenkins on Ubuntu](Jenkins/installing-jenkins-on-ubuntu.md)
