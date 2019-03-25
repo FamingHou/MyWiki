@@ -18,7 +18,8 @@ sudo apt-get install -y jenkins=2.138.1
 ```console
 sudo iptables -t nat -A PREROUTING -p tcp --dport 80 -j REDIRECT --to-ports 8080
 sudo iptables -t nat -A PREROUTING -p tcp --dport 443 -j REDIRECT --to-port 8443
-sudo iptables-save > /etc/iptables.rules
+# sudo iptables-save > /etc/iptables.rules
+sudo sh -c "iptables-save > /etc/iptables.conf"
 sudo apt-get install  iptables-persistent -y
 ```
 
