@@ -3,7 +3,7 @@
 ```console
 npm install vue-cookie@1.1.4 --save
 ```
-## load it in main.js
+## Load it in main.js
 
 src/main.js
 ```javascript
