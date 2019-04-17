@@ -69,3 +69,5 @@ router.beforeEach((to, from, next) => {
 
 [Route Meta Fields](https://router.vuejs.org/guide/advanced/meta.html)
 [vue-cookie](https://www.npmjs.com/package/vue-cookie)
+[vuex-persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate)
+[js-cookie](https://github.com/js-cookie/js-cookie)
