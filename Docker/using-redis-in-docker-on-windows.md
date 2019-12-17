@@ -45,9 +45,12 @@ PS C:\Users\frank> docker exec -it myredis sh
 ### Run redis-cli in the container
 
 ```
-### redis-cli
+# redis-cli
 127.0.0.1:6379> ping
 PONG
 127.0.0.1:6379>
 ```
 
+### Run Redis Publish Pubscribe commands
+
+![redis-pubsuc](../images/redis-pubsub.gif)
